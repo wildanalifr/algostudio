@@ -13,6 +13,7 @@
 		140A1F102B7F94B500217474 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140A1F0E2B7F94B500217474 /* Main.storyboard */; };
 		140A1F122B7F94B600217474 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 140A1F112B7F94B600217474 /* Assets.xcassets */; };
 		140A1F152B7F94B600217474 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140A1F132B7F94B600217474 /* LaunchScreen.storyboard */; };
+		140A1F1D2B7FB50300217474 /* ImageCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 140A1F1C2B7FB50300217474 /* ImageCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		140A1F112B7F94B600217474 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		140A1F142B7F94B600217474 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		140A1F162B7F94B600217474 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		140A1F1C2B7FB50300217474 /* ImageCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				140A1F112B7F94B600217474 /* Assets.xcassets */,
 				140A1F132B7F94B600217474 /* LaunchScreen.storyboard */,
 				140A1F162B7F94B600217474 /* Info.plist */,
+				140A1F1C2B7FB50300217474 /* ImageCollectionViewCell.swift */,
 			);
 			path = algostudio;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				140A1F0D2B7F94B500217474 /* ViewController.swift in Sources */,
 				140A1F092B7F94B500217474 /* AppDelegate.swift in Sources */,
+				140A1F1D2B7FB50300217474 /* ImageCollectionViewCell.swift in Sources */,
 				140A1F0B2B7F94B500217474 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
